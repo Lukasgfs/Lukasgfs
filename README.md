@@ -1,16 +1,36 @@
-## Hi there 👋
+#  Lucas Gabriel 👋
 
-<!--
-**Lukasgfs/Lukasgfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**` Graduando em Farmácia | Desenvolvedor Python`**
 
-Here are some ideas to get you started:
+Me chamo Lucas Gabriel, tenho 27 anos e sou natural de Minas Gerais. Atualmente, estou finalizando o curso de Farmácia na UFVJM. Sou um entusiasta da tecnologia e você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-b65852242/) ou no [Instagram](https://www.instagram.com/lukaz_gfs/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 🤖 Ferramentas 
+
+<img 
+    align="left" 
+    alt="HTML" 
+    title="VScode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+ />
+    
+<br/>
+<br/>
+
